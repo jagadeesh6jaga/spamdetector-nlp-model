@@ -32,15 +32,5 @@ nltk>=3.4.5
 <h3> final result after deployment </h3>
 to predict whether the  text is spam or not  , click below link :
 
-https://salaryprediction-apijagadeesh.herokuapp.com/
-
-
-
-
-
-
-
-
-
 
 https://spamdetector-nlpmodeljagadeesh.herokuapp.com/predict
