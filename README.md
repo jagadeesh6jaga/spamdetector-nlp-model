@@ -33,4 +33,4 @@ nltk>=3.4.5
 to predict whether the  text is spam or not  , click below link :
 
 
-https://spamdetector-nlpmodeljagadeesh.herokuapp.com/predict
+https://spamdetector-nlpmodeljagadeesh.herokuapp.com/
