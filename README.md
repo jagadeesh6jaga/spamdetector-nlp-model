@@ -1,4 +1,4 @@
-# spamdetector-nlp-model with deployment 
+# spam detector-nlp-model with deployment 
 
 <h3>introduction </h3>
 
